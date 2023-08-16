@@ -1,1 +1,8 @@
-<h1> If you are seeing this page then probably tomcat container is correctly deployed </h1>
+<html>
+  <head>
+    <title>Body bgcolor Attribute example</title>
+  </head>
+  <body bgcolor="#afafaf">
+    <h1>This webpage has colored background.</h1>
+  </body>
+</html>
